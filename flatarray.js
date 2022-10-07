@@ -5,7 +5,9 @@ function flatArr(arr)
 {
     let flatarray=[]
 
+
 function flatNestedArray(arr1)
+
 {
 for (index=0 ; index<arr1.length ; index++)
 {   let value=arr1[index]
@@ -19,7 +21,9 @@ for (index=0 ; index<arr1.length ; index++)
     }
 }
 }
+
 flatNestedArray(arr)
 console.log(flatarray)
 }
- flatArr(multiArray)
+
+flatArr(multiArray)
