@@ -26,4 +26,3 @@ flatNestedArray(arr)
 console.log(flatarray)
 }
 
-flatArr(multiArray)
